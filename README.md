@@ -2,7 +2,7 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası
 bir adet de index.html dosyası barındırmaktadır.
-
+![Gorsel](C:\Users\Hüseyin Mert\Desktop\Software\kodluyoruzilkrepo\images\odev.png)
 ## Installation
 --------------------------------------
 Öncelikle projeyi clonlayın.
